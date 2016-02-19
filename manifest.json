@@ -5,7 +5,7 @@
   "description": "This extension lets you store and calculate a trip booking total then split by number of people",
   "version": "1.0",
   "background": {
-    "scripts": "events.js",
+    "scripts": ["events.js"],
     "persistent": false
 
   },
